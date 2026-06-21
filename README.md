@@ -10,6 +10,12 @@ A **machine-learning analytics engine for Fantasy Premier League** that scores e
 
 ---
 
+## Live demo
+
+![FPL Ultimate Analyzer](./docs/screenshots/app.png)
+
+---
+
 ## The problem
 
 FPL managers drown in stats but lack a principled way to convert them into decisions: *who to captain, who to transfer, and which 15 players give the best expected points under a £100m budget and squad rules?* This turns that into an optimization problem with an ML-driven objective.
