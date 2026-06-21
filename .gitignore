@@ -1,0 +1,42 @@
+# === Secrets & credentials (NEVER commit) ===
+.env
+.env.*
+*.ini
+config.ini
+config.json
+*secret*
+*credential*
+*.key
+*.pem
+
+# === Cache / generated data ===
+.cache/
+data/
+runs/
+backtests/
+*.parquet
+*.csv
+*.jsonl
+*.log
+
+# === Models ===
+*.pkl
+*.joblib
+models/
+
+# === Python ===
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# === OS / editor ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+!samples/
+!docs/
+!docs/screenshots/
