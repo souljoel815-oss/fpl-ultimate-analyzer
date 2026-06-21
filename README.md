@@ -4,6 +4,8 @@ A **machine-learning analytics engine for Fantasy Premier League** that scores e
 
 > 🎥 **Demo:** _add your Loom link here_ · 🖼️ Screenshots in [`docs/screenshots/`](./docs/screenshots/)
 >
+### 🟢 [▶ Live Demo](https://fpl.107-148-158-132.sslip.io) &nbsp;·&nbsp; [🌐 Portfolio](https://portfolio.107-148-158-132.sslip.io)
+
 > 🔒 This is a **showcase repo**. Full source available on request.
 
 ---
